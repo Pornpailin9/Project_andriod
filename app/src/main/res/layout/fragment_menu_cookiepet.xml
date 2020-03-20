@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pic2"
+    tools:context=".Menu_cookiepet"
+    >
+
+    <LinearLayout
+        android:layout_width="360dp"
+        android:layout_height="450dp"
+        android:layout_gravity="center"
+        android:background="#CCFFFFFF"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="355dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="15dp"
+            android:fontFamily="@font/orangejuice"
+            android:text="MAIN MENU"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="60sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btncookie"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#EE8B6B"
+            android:backgroundTint="#EE8B6B"
+            android:fontFamily="@font/orangejuice"
+            android:text="Cookie"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnpet"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="#EE8B6B"
+            android:backgroundTint="#EE8B6B"
+            android:fontFamily="@font/orangejuice"
+            android:text="Pet"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnitem"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="#EE8B6B"
+            android:backgroundTint="#EE8B6B"
+            android:fontFamily="@font/orangejuice"
+            android:text="Item"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btndb"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="#EE8B6B"
+            android:backgroundTint="#EE8B6B"
+            android:fontFamily="@font/orangejuice"
+            android:text="Dashboard"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnlogout"
+            android:layout_width="167dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="#4A636D"
+            android:backgroundTint="#4A636D"
+            android:textColor="#EE8B6B"
+            android:fontFamily="@font/orangejuice"
+            android:text="LOG OUT"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+</FrameLayout>
+
+
+<!--    android:backgroundTint="#CE081B"-->

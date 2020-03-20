@@ -1,0 +1,246 @@
+{
+  "cookie": [
+    {
+      "firstname": "Angel",
+      "lastname" : "Cookie",
+      "image": "https://gamerdb.online-station.net/files/cookierun/hero/hero_pic/247.png",
+      "skills": "Grade: S \nPet: Wishing Star \nTreasure: Holy Feather",
+      "detail": "Source: เธอเป็นนางฟ้าเด็กตัวน้อยๆที่มีความเก่งเรื่องการโบยบิน ตัวเธอจะลอยอยู่เหนือพื้นเสมอ ปัญหาของเธอไม่ใช่หัวที่ใหญ่จนไม่สมส่วนกับตัว แต่เป็นปีกที่ยังไม่แผ่เต็มที่เท่านั้น ตัวเธอเสมือนมีแม่เหล็กที่คอยดูดไอเท็มที่อยู่ใกล้เข้าตัว \n Skill: เมื่ออัพเกรดสูงขึ้น รัศมีแม่เหล็กจะกว้างขึ้นตาม"
+    },
+    {
+      "firstname": "Ninetales",
+      "lastname" : "Cookie",
+      "image": "https://gamerdb.online-station.net/files/cookierun/hero/hero_pic/254.png",
+      "skills": "Grade: S \nPet: Foxy Bead \nTreasure: Foxy Bead's Heart",
+      "detail": "Extra: ได้คะแนนจาก เยลลี่หมี เพิ่มขึ้น เมื่อใช้คู่กับ Pet Foxy Bead \n Skill: เมื่อกระโดด 2 ขั้น ครบ 9 ครั้ง จะแปลงร่างเป็น จิ้งจอกเก้าหางไป ยั่วยวน เยลลี่หมี ให้ได้รับคะแนนเพิ่ม"
+    },
+    {
+      "firstname": "Hero",
+      "lastname" : "Cookie",
+      "image": "https://gamerdb.online-station.net/files/cookierun/hero/hero_pic/251.png",
+      "skills": "Grade: S \nPet: Jellyco Cube \nTreasure: Book of Action Secrets",
+      "detail": "Source: หลังจากคร่ำเครียดกับการเรียนมาหลายชั่วโมงเขาก็รู้วิธีคิดค้นชุดสูทคาราเมลซุปเปอร์ฮีโร่ ซึ่งปรับปรุงให้เหมาะสมกับการหลบหนีพร้อมกับแบตเตอรี่เครื่องกลและพลังจรวดลูกกวาดการอัพเกรดจะช่วยลดเวลาการชาร์จพลังเครื่องกลในแต่ละครั้ง \n Skill: ตัวละครจะมีแถบพลังบนหัว โดยแถบพลังจะเพิ่มขึ้นเรื่อย ๆ ในขณะวิ่งถ้าแถบพลังเต็มคุกกี้จะแปลงร่างเป็นซุปเปอร์ฮีโร่ชั่วระยะเวลาหนึ่งแล้วกลับร่างเดิมในขณะที่เป็นร่างซุปเปอร์ฮีโร่ตัวละครจะบินได้ เคลื่อนที่เร็ว ชนสิ่งกีดขวางได้ทุกอย่างโดยพลังไม่ลด และดูดไอเทมรอบ ๆ ตัวได้"
+    },
+    {
+      "firstname": "Skating-Queen",
+      "lastname" : "Cookie",
+      "image": "https://gamerdb.online-station.net/files/cookierun/hero/hero_pic/250.png",
+      "skills": "Grade: S \nPet: Snow Blossom \nTreasure: Sparkling Crust",
+      "detail": "Source: เกิดจากส่วนผสมชั้นเลิศบวกกับการหมั่นซ้อมและความเพียรอันไม่มีที่สิ้นสุด ทำให้เกิดคุ้กกี้ชนิดนี้ขึ้นมาเธอจะได้รับคะแนนเพิ่มจากการแสดงลีลา(กระโดด2ชั้น) โชวของเธออลังการจนทำให้คุ้กกี้ตัวอื่นอ้าปากค้างไปตามๆกัน สวยงามจริงๆ \n Skill: ได้รับคะแนนพิเศษเพิ่มเมื่อกระโดด2ชั้น วิ่งด้วยความเร็วแสง(เมื่อเก็บลูกไฟ)และในโบนัสไทม์"
+    },
+    {
+      "firstname": "Special-Force",
+      "lastname" : "Cookie",
+      "image": "https://gamerdb.online-station.net/files/cookierun/hero/hero_pic/252.png",
+      "skills": "Grade: S \nPet: AWOL Cracker \nTreasure: Special Force Cookie's Face Paint",
+      "detail": "Source: เธอติดอาวุธปืนลูกกวาดไว้ข้างกาย เธอเคยผ่านหน่วยฝึกรบพิเศษมาอย่างง่ายดาย ก่อนจะไปทำงานอยู่หน่วยสืบราชการลับ ภารกิจของเธอเป็นความลับ แต่สัณนิฐานกันว่าน่าจะเกี่ยวกับการหลบหนีออกจากเตาอบ \n Skill: ยิงลูกกวาดรูปดาวเพื่อทำลายสิ่งกีดขวางและเมื่อเก็บซากดาวจะได้แต้มเพิ่มขึ้น ยิ่งอัพเกรดมากขึ้น พลังการทำลายจะสูงขึ้น \nExtra: เมื่อใช้ Cookie ตัวอื่น มีโอกาสที่ Special Force Cookie จะช่วยยิงมิซไซล์ทำลายสิ่งกีดขวางให้"
+    },
+    {
+      "firstname": "Knight",
+      "lastname" : "Cookie",
+      "image": "https://gamerdb.online-station.net/files/cookierun/hero/hero_pic/244.png",
+      "skills": "Grade: A \nPet: Dragon's Tail \nTreasure: Skin of Dragon's Tail",
+      "detail": "Source: ชุดเกราะไวท์ช็อคโกแลตเสริมความแข็งแกร่งด้วยฟองนม! คุ้กกี้นักรบคือตำนานที่ยังมีชีวิตอยู่ ตำนานเล่าว่าเขาออกกำลังกายโดยการสู้กับมังกร เสกม้าขึ้นมาจากอากาศและขี่ทะยานได้รวดเร็วและยาวนานกว่าคุ้กกี้ทุกตัวที่เคยมีมา \n Skill: วิ่งเร็วขึ้นและนานขึ้นเมื่อเก็บ blast jellies"
+    },
+    {
+      "firstname": "Princess",
+      "lastname" : "Cookie",
+      "image": "https://gamerdb.online-station.net/files/cookierun/hero/hero_pic/243.png",
+      "skills": "Grade: A \nPet: Enchanted Locket \nTreasure: Enchant Locket's Locket",
+      "detail": "Source: ถึงแม้ว่าเธอคือองค์หญิง ผู้เป็นที่รักของราชวงศ์คุ้กกี้ แต่อย่าหลงไปรอยยิ้มอันแสนหวานและทรงผมน่ารักๆของเธอเชียว เพราะเธอมีความเชี่ยวชาญเรื่องศิลปะการต่อสู้ เธอไม่กลัวใคร และที่สำคัญชั้นในเธอแข็งแรงพอๆกับโล่เลยหละ \n Skill: เกิดความเสียหายแค่ 50% เมื่อชนสิ่งกีดขวาง"
+    },
+    {
+      "firstname": "Zombie",
+      "lastname" : "Cookie",
+      "image": "https://gamerdb.online-station.net/files/cookierun/hero/hero_pic/246.png",
+      "skills": "Grade: A \nPet: Brain Gum \nTreasure: Blood Cell",
+      "detail": "Source: เขาถูกทำจากส่วนผสมต่างๆที่ขึ้นราแล้ว แถมยังอบไม่เสร็จดี จึงกลายมาเป็นคุ้กกี้ซอมบี้ที่ชื้นแฉะและมีรูปทรงเหลวโปะด้วยแยมสตรอเบอรี่และเมลท์ช็อคโกแลต เขาฟื้นคืนชีพได้ง่ายๆ แต่ระวังอย่าให้ตกหลุมแล้วกัน \n Skill: ฟื้นคืนชีพหลังจากพลังงานหมดได้ถึง 8 ครั้ง เมื่ออัพเกรดเต็ม"
+    },
+    {
+      "firstname": "Buttercream-Choco",
+      "lastname" : "Cookie",
+      "image": "https://gamerdb.online-station.net/files/cookierun/hero/hero_pic/240.png",
+      "skills": "Grade: B \nPet: Dust Unicorn \nTreasure: Dust Unicorn’s Warm Hat",
+      "detail": "Source: เขามีชื่อเล่นอีกชื่อคือ “rich” = รวย! เพื่อไม่ให้เสียชื่อ เขามีวิธีจัดการกับปัญหาเรื่องเงินๆทองๆ แถมได้ผลตอบแทนดีเสียด้วย \n Skill: เพิ่มจำนวนเงินที่ได้รับให้มากถึง 25% เมื่อเก็บเหรียญ"
+    },
+    {
+      "firstname": "Cloud",
+      "lastname" : "Cookie",
+      "image": "https://gamerdb.online-station.net/files/cookierun/hero/hero_pic/239.png",
+      "skills": "Grade: B \nPet: Rainbow's End \nTreasure: A Piece of Rainbow’s End",
+      "detail": "Source: เธอชอบพูดเสมอว่า “ฉันรักการเต้นรำเพราะชีวิตก็เปรียบดังกับการสังสรรค์ เราแต่ละคนมีจังหวะเป็นของตัวเอง” ความฝันของเธอคือการเต้นท่ามกลางกลุ่มเมฆขาว ความสามารถพิเศษของเธอคือเพิ่มระยะเวลาการแสดงผลของ power jelly ให้ยาวนานขึ้น \n Skill: power jelly มีระยะเวลาการแสดงผลยาวนานขึ้นถึง 35%"
+    },
+    {
+      "firstname": "Strawberry",
+      "lastname" : "Cookie",
+      "image": "https://gamerdb.online-station.net/files/cookierun/hero/hero_pic/237.png",
+      "skills": "Grade: B \nPet: Flowercopter \nTreasure: Sweet Strawberry",
+      "detail": "Source: คุ้กกี้แสนขี้อายชอบปลีกตัว เธออยากให้มีช่วงโบนัสไทม์ตลอดการวิ่ง ถ้าเป็นไปได้เธออยากจะขออยู่ที่นั่นตลอดไป \n Skill: ช่วยเพิ่มเวลาช่วงโบนัสไทม์ 1 วินาที (ยิ่งอัพเกรดจะยิ่งเพิ่มเวลาโบนัสไทม์ขึ้นไปเรื่อยๆ)"
+    },
+    {
+      "firstname": "Brave",
+      "lastname" : "Cookie",
+      "image": "https://gamerdb.online-station.net/files/cookierun/hero/hero_pic/235.png",
+      "skills": "Grade: C \nPet: Drop of Choco \nTreasure: Drop of Choco’s Choco Bar",
+      "detail": "Source: เป็นคุ้กกี้ที่มีความมุ่งมั่นสูง เขาท้าทายโชคชะตาด้วยการหลบหนีออกมาจากเตาอบของแม่มดตัวร้าย พร้อมทั้งปูทางให้เพื่อนคุ้กกี้ตัวอื่นๆของเขาหลบหนีออกมาด้วยเช่นกัน \n Skill: กระโดดได้ 2 จังหวะและสไลด์ได้เท่านั้น"
+    },
+    {
+      "firstname": "Bright",
+      "lastname" : "Cookie",
+      "image": "https://gamerdb.online-station.net/files/cookierun/hero/hero_pic/236.png",
+      "skills": "Grade: C \nPet: Cheeseberry \nTreasure: Bright Cookie’s Lollipop Bite",
+      "detail": "Source: คุ้กกี้สาวจอมฉลาด การวิ่งอาจจะเป็นทางออกเดียวสำหรับคุ้กกี้ตัวอื่นๆ แต่ไม่ใช่สำหรับเธอ เพราะเธอมีสกิลที่จะเพิ่ม XP ในขณะที่วิ่งไปด้วยนั่นเอง \n Skill: ได้รับค่า XP โบนัส สูงสุดถึง 12% เมื่ออัพเกรดจนเต็ม"
+    }
+  ],
+  "pet": [
+    {
+      "firstname": "AWOL",
+      "lastname" : "Cracker",
+      "image": "https://gamerdb.online-station.net/files/cookierun/skill/559.png",
+      "skills": "Grade: S",
+      "detail": "Source: เคยอยู่หน่วยงานแป้งแห่งชาติ แต่ก็ไม่ได้เลื่อนขั้นเสียที เจ้าแคร็กเก้อร์เลยตัดสินใจหนีมาร่วมทีมกับเหล่าคุ้กกี้แทน \n Skill: ผลิตเยลลี่ขยายร่างและกลุ่มขนมรูปดาวที่ให้พลังงานเล็กน้อย \n | Thank for watching |"
+    },
+    {
+      "firstname": "Enchanted",
+      "lastname" : "Locket",
+      "image": "https://gamerdb.online-station.net/files/cookierun/skill/554.png",
+      "skills": "Grade: S",
+      "detail": "Source: เครื่องประดับสวยงามล้ำค่าที่ถูกส่งต่อจากรุ่นสู่รุ่น เชื่อกันว่าแม่มดเป็นผู้สร้างมันขึ้นมาตอนเธอยังทำงานให้กับเหล่าราชวงศ์คุ้กกี้ \n Skill: ผลิต potion ขนาดเล็ก \n | Thank for watching |"
+    },
+    {
+      "firstname": "Foxy",
+      "lastname" : "Bead",
+      "image": "https://gamerdb.online-station.net/files/cookierun/skill/562.png",
+      "skills": "Grade: S",
+      "detail": "Source: ผลิตไอเทมที่ทำให้ตัวใหญ่ และวิ่งเร็วยิ่งอัพเลเวลสูงยิ่งผลิตบ่อย \n | Thank for watching |"
+    },
+    {
+      "firstname": "Jellyco",
+      "lastname" : "Cube",
+      "image": "https://gamerdb.online-station.net/files/cookierun/skill/558.png",
+      "skills": "Grade: S",
+      "detail": "Source: เมื่อเทคโนโลยีชิ้นโบแดงหลบหนีออกมามันได้ปล่อยมิซไซล์ทำลายล้างที่เต็มไปด้วยเยลลี่จับตาดูความซับซ้อนและความแพรวพราวของเจ้าเยลลี่โคให้ดี ุณอาจจะไม่เคยเห็นอะไรแบบนี้มาก่อน \n Skill: ทิ้งระเบิดทำลายสิ่งกีดขวางให้กลายเป็นเยลลี่ \n | Thank for watching |"
+    },
+    {
+      "firstname": "Snow",
+      "lastname" : "Blossom",
+      "image": "https://gamerdb.online-station.net/files/cookierun/skill/557.png",
+      "skills": "Grade: S",
+      "detail": "Source: เป็นส่วนผสมหลักในน้ำแข็งไสช่วงหน้าร้อน อีกทั้งยังเป็นเพื่อนซี้คู่ใจของคุ้กกี้ราชินีสเก็ตลีลามันช่วยให้การแสดงโชว์ของเธองดงามยิ่งขึ้น \n Skill: สร้างสะพานน้ำแข็งขึ้นมาปิดช่องว่างของหลุม \n | Thank for watching |"
+    },
+    {
+      "firstname": "Brain",
+      "lastname" : "Gum",
+      "image": "https://gamerdb.online-station.net/files/cookierun/skill/551.png",
+      "skills": "Grade: A",
+      "detail": "Source: พ่นฟองวิเศษออกมาเพิ่มไอคิวให้แก่เหล่าคุ้กกี้ช่วยในการใช้พลังงานชีวิตให้ช้าลง \n Skill: ทำให้พลังชีวิตลดช้าลง \n | Thank for watching |"
+    },
+    {
+      "firstname": "Dragon's",
+      "lastname" : "Tail",
+      "image": "https://gamerdb.online-station.net/files/cookierun/skill/552.png",
+      "skills": "Grade: A",
+      "detail": "Source: มันไม่ชอบถูกเรียกว่าเป็นว่านหางจรเข้ เพราะมันไม่ใช่สัตว์เลี้ยงธรรมดาแต่ถูกยึดมาจากการต่อสู้ที่ดุเดือดกับมังกรสีน้ำเงิน เชื่อกันว่าพลังงานของมันก็ยังคงประทุอยู่มั่นใจได้ว่าถ้าคุณเรียกพลังมังกรออกมาได้แล้วคุณจะไม่เรียกมันว่าว่านหางจรเข้อีกเป็นแน่! \n Skill: สามารถเรียกมังกรออกมาทำลายล้างสิ่งกีดขวางได้ \n | Thank for watching |"
+    },
+    {
+      "firstname": "Flower",
+      "lastname" : "Copter",
+      "image": "https://gamerdb.online-station.net/files/cookierun/skill/549.png",
+      "skills": "Grade: A",
+      "detail": "Source: ระวัง! คุณจะอาจแพ้เกสรดอกไม้ \n Skill: เพิ่มความเร็วของคุ้กกี้ในช่วงโบนัสไทม์ \n | Thank for watching |"
+    },
+    {
+      "firstname": "Wishing",
+      "lastname" : "Star",
+      "image": "https://gamerdb.online-station.net/files/cookierun/skill/550.png",
+      "skills": "Grade: A",
+      "detail": "Source: ช่วยทำให้พรที่เป็นไปไม่ได้ ให้เป็นจริง! และสามารถเพิ่มพลังงานให้แก่คุ้กกี้ที่เหนื่อยล้า \n Skill: ทำให้คุ้กกี้ฟื้นคืนชีพเมื่อพลังงานหมด \n | Thank for watching |"
+    },
+    {
+      "firstname": "Dust",
+      "lastname" : "Unicorn",
+      "image": "https://gamerdb.online-station.net/files/cookierun/skill/548.png",
+      "skills": "Grade: B",
+      "detail": "Source: ผงวิเศษที่ถูกพบในที่นอนของม้ายูนิคอร์น เป็นผงที่ตากแห้งด้วยแสงแห่งดวงจันทร์มักถูกแม่มดตามล่ามาใช้เป็นส่วนผสม \n Skill: ผลิตเหรียญทอง (ยิ่งอัพเกรดจะยิ่งผลิตเหรียญทองถี่ขึ้น) \n | Thank for watching |"
+    },
+    {
+      "firstname": "Cheese",
+      "lastname" : "Berry",
+      "image": "https://gamerdb.online-station.net/files/cookierun/skill/538.png",
+      "skills": "Grade: C",
+      "detail": "Source: ผลชีสน่ารักๆคัดมาจากพุ่มไม้ชีสเบอรี่แท้ของป่าแม่มดในช่วงหน้าร้อน \n Skill: คอยเก็บเยลลี่ที่เราพลาดไป \n | Thank for watching |"
+    },
+    {
+      "firstname": "Drop of",
+      "lastname" : "Choco",
+      "image": "https://gamerdb.online-station.net/files/cookierun/skill/537.png",
+      "skills": "Grade: C",
+      "detail": "Source: แม้จะเป็นช็อคโกแลตแท้รสขม สัตว์เลี้ยงตัวนี้คือเพื่อนคู่ใจอันแสนหวาน \n Skill: ผลิตเยลลี่หมีทุก ๆ 10 วินาที (ยิ่งอัพเกรดจะยิ่งลดเวลาผลิตเยลลี่หมี) \n | Thank for watching |"
+    }
+  ],
+  "item": [
+    {
+      "firstname": "Bonus",
+      "lastname" : "Time",
+      "image": "https://gamerdb.online-station.net/files/cookierun/item/483.png",
+      "skills": "นาฬิกาบอกระยะเวลาการอยู่บน BonusTime ยิ่งอัพเกรดสูงยิ่งอยู่ใน BonusTime ได้นานขึ้น",
+      "detail": "Upgrae value: 9,800 \n Gift point: 32 \n Bonus Time: 9.0 second \n | Thank for watching |"
+    },
+    {
+      "firstname": "Cookie",
+      "lastname" : "Relay",
+      "image": "https://gamerdb.online-station.net/files/cookierun/item/488.png",
+      "skills": "Cookie Relay ใช้ Cookie ตัวที่ 2 สลับมาวิ่งแทนเมื่อ Cookie ตัวแรกพลังหมด",
+      "detail": "| Thank for watching |"
+    },
+    {
+      "firstname": "Double",
+      "lastname" : "XP",
+      "image": "https://gamerdb.online-station.net/files/cookierun/item/486.png",
+      "skills": "จะได้รับ Exp 2 เท่าเมื่อวิ่งจบ [บังคับใช้ถ้ามี]",
+      "detail": "| Thank for watching |"
+    },
+    {
+      "firstname": "Energy",
+      "lastname" : "Boost",
+      "image": "https://gamerdb.online-station.net/files/cookierun/item/481.png",
+      "skills": "แถบพลังชีวิตของ Cookie ยิ่งอัพเกรดสูง Cookie ยิ่งวิ่งได้นานขึ้น",
+      "detail": "Upgrae value: 9,800 \n Gift point: 32 \n Energy Boost: 100 Boost \n | Thank for watching |"
+    },
+    {
+      "firstname": "Energy",
+      "lastname" : "Boost 1",
+      "image": "https://gamerdb.online-station.net/files/cookierun/item/484.png",
+      "skills": "จะเพิ่มความยาวแถบพลังของ Cookie ตอนเริ่มเกม [บังคับใช้งานถ้ามี]",
+      "detail": "| Thank for watching |"
+    },
+    {
+      "firstname": "Fast",
+      "lastname" : "Start",
+      "image": "https://gamerdb.online-station.net/files/cookierun/item/487.png",
+      "skills": "จะพา Cookie ไปโผล่ที่ Stage 3 ทันที โดยเก็บของที่วิ่งผ่านทั้งหมด",
+      "detail": "| Thank for watching |"
+    },
+    {
+      "firstname": "Jelly",
+      "lastname" : "Boost",
+      "image": "https://gamerdb.online-station.net/files/cookierun/item/482.png",
+      "skills": "Jelly ขนมของโปรดของ Cookie ถ้ายิ่งอัพเลเวลสูงขึ้นยิ่งได้คะแนนเพิ่มมากขึ้น",
+      "detail": "Upgrae value: 9,800 \n Gift point: 32 \n Jelly Boost: 299 point \n | Thank for watching |"
+    },
+    {
+      "firstname": "Power Jellies",
+      "lastname" : "Boost",
+      "image": "https://gamerdb.online-station.net/files/cookierun/item/485.png",
+      "skills": "จะเพิ่มระยะเวลาการใช้งานไอเทมต่าง ๆ ขณะวิ่งอยู่",
+      "detail": "| Thank for watching |"
+    },
+    {
+      "firstname": "Random",
+      "lastname" : "Booster",
+      "image": "https://gamerdb.online-station.net/files/cookierun/item/489.png",
+      "skills": "จะสุ่มความสามารถพิเศษต่าง ๆ มาใช้ตอนเริ่มเกม",
+      "detail": "| Thank for watching |"
+    }
+  ]
+}
