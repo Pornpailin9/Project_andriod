@@ -8,8 +8,8 @@
 ฝากกด follow github/supakjack ด้วยครับ เน้นพวก node.js , vue.js , react , angular (frontent js ทั้งหลาย) เป็นหลักงับ พวก socket.io , Restfulapi หรือ docker ก็มีฝากด้วยงับ 
 
 ## 1. หน้าแรก
-### - มี 2 เมนู คือ ดำเนินการต่อด้วย facebook เพื่อเข้าสู่ห้องแชท หรือกดดูรายละเอียดใน readme  
-![alt text](https://user-images.githubusercontent.com/48548611/77112034-e46a6400-6a5a-11ea-91db-4f3f01a5c9ba.png)
+### - ทำการ login เพื่อเข้าสู่ระบบ (โดยใช้รหัสนิสิตของตัวเอง คือ 60160174)
+![alt text](https://user-images.githubusercontent.com/61728776/77152766-292de380-6acb-11ea-91a2-10ea2f14f839.png)
 
 ## 2. หน้าห้องแชท
 ### - จะแสดงแชททั้งหมด แบบเรียทามได้ สามารถส่งข้ความคุยกันในห้องได้แบบไม่ระุตัวตน สามารถกดล็อคเอาเพื่อกลับไปหน้าหลักได้ 
